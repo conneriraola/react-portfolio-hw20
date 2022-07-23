@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Text Editor",
+      "technologies": ["JavaScript", "MongoDB", "Mongoose ODM", "Express.js"],
+      "description": "",
+      "link": "https://text-editor-homework18.herokuapp.com/",
+      "screenshot": ""
+    },
+    {
+      "name": "Busy Parents",
+      "technologies": ["Node.js", "Express.js", "Sequelize", "Handlebars"],
+      "description": "",
+      "link": "https://github.com/crumwj22/busy-parents",
+      "screenshot": ""
+    },
+    {
+      "name": "Readme Generator",
+      "technologies": ["Node.js", "Inquirer.js"],
+      "description": "A command line interface application designed to generate consistent professional READMEs with ease.",
+      "link": "https://github.com/conneriraola/readme-generator",
+      "screenshot": ""
+    },
+    {
+        "name": "Team Profile Generator",
+        "technologies": ["Node.js", "Inquirer.js", "HTML5", "foundation.css"],
+        "description": "A command line interface application that will take input about your team members and generate a styled home page with cards showing information about each of your team members.",
+        "link": "https://github.com/conneriraola/team_profile_generator",
+        "screenshot": ""
+      },
+    {
+      "name": "Employee Tracker",
+      "technologies": ["Node.js", "Mysql2", "Inquirer.js"],
+      "description": "A command line interface application that serves as an interface for a SQL based employee database.",
+      "link": "https://github.com/conneriraola/employee-tracker",
+      "screenshot": ""
+    },
+    {
+        "name": "Social Meadia Backend",
+        "technologies": ["Node.js", "Dotenv", "Express.js", "Sequelize.js"],
+        "description": "A backend database for e-commerce. This SQL databse uses the sequelize ODM and is testable with fetch managing sofware such as Insomnia Core.",
+        "link": "https://github.com/conneriraola/social-network-api",
+        "screenshot": ""
+    }
+  ]
