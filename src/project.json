@@ -21,12 +21,12 @@
       "screenshot": ""
     },
     {
-      "name": "Tech Blog",
-      "technologies": ["Node.js", "Express.js", "Sequelize", "Handlebars"],
-      "description": "A blog-style CMS. This project is my first complete full stack application. Sign up and post a blog!",
-      "link": "https://guarded-escarpment-07152.herokuapp.com/",
-      "screenshot": "project-TechBlog.png"
-    },
+        "name": "Team Profile Generator",
+        "technologies": ["Node.js", "Inquirer.js", "HTML5", "foundation.css"],
+        "description": "A command line interface application that will take input about your team members and generate a styled home page with cards showing information about each of your team members.",
+        "link": "https://github.com/conneriraola/team_profile_generator",
+        "screenshot": ""
+      },
     {
       "name": "Employee Tracker",
       "technologies": ["Node.js", "Mysql2", "Inquirer.js"],
@@ -39,6 +39,6 @@
         "technologies": ["Node.js", "Dotenv", "Express.js", "Sequelize.js"],
         "description": "A backend database for e-commerce. This SQL databse uses the sequelize ODM and is testable with fetch managing sofware such as Insomnia Core.",
         "link": "https://github.com/conneriraola/social-network-api",
-        "screenshot": "project-buckethead.jpg"
+        "screenshot": ""
     }
   ]
